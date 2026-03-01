@@ -10,9 +10,9 @@ Senior Software Engineer at Atlassian, on Loom's Developer Experience team.
 I build AI tooling that reduces developer friction org-wide.
 
 ## Background
-A decade shipping production software across fintech (Northwestern Mutual), automotive (Cars.com — early GPT-3 integrations), and developer tooling (Atlassian).
+A decade shipping production software across fintech (Northwestern Mutual), automotive (Cars.com — early GPT-3.5 integrations), and developer tooling (Atlassian).
 
 ## Currently Exploring
 Agentic AI patterns, MCP servers, CLI tools designed for LLM consumption, and what "AI-native" actually means for how we build software.
 
-📍 Los Angeles · shawnpetros.com · LinkedIn
+📍 Los Angeles · [shawnpetros.com](https://shawnpetros.com) · [LinkedIn](https://www.linkedin.com/in/spetros/)
