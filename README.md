@@ -3,7 +3,7 @@
 ## What I'm Building
 - [mediascribe](https://pypi.org/project/mediascribe/) — CLI tool for extracting insights from audio/video recordings. Python, pip-installable.
 - [rental-calculator](https://rentals.shawnpetros.com) — Rental property viability assessor. TypeScript.
-- [meal-planner]() — Recipe generation + Instacart integration (in progress).
+- [meal-planner] — Recipe generation + Instacart integration (in progress).
 
 ## Day Job
 Senior Software Engineer at Atlassian, on Loom's Developer Experience team.
