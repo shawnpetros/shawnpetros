@@ -1,20 +1,35 @@
-👋 Hey, I'm Shawn.
+👋 Hey, I'm Shawn!
 
-## What I've Built
-- WindWatts - https://windwatts.nlr.gov/?lat=39.7392&lng=-104.9903 - Open-source wind energy assessment tool for the National Lab of the Rockies. I built the mobile UI, public API documentation system, and shareable deep-link architecture. React, TypeScript, FastAPI, Docker. [25 PRs merged →](https://github.com/NatLabRockies/windwatts/pulls?q=is%3Apr+author%3Ashawnpetros)
+I'm the guy who took apart a toaster as a kid to find out WHY it toasted as much as HOW it toasted.
+   
+Fifteen years in tech turned that into React, TypeScript, AI pipelines, and an unhealthy number of repos. Then the industry buried the fun part under DSA interviews and "quality with velocity" metrics... so I went and got it back.
 
-## What I'm Building
-- [mediascribe](https://pypi.org/project/mediascribe/) - CLI tool for extracting insights from audio/video recordings. Python, pip-installable.
-- [rental-calculator](https://rentals.shawnpetros.com) - Rental property viability assessor. TypeScript.
-- [meal-planner] - Recipe generation + Instacart integration (in progress).
+Now I build things that light up when I tell them to. And it feels like the first time I put a hover state on a button with jQuery.
 
-## Day Job
-Senior Software Engineer at Atlassian, on Loom's Developer Experience team. I build AI tooling that reduces developer friction org-wide.
+## What I'm Building                                                                                                                         
+                                       
+- **[second-brain](https://github.com/shawnpetros/second-brain)** — A persistent knowledge graph for AI agents. Capture, relate, retrieve. Because one brain is not enough in the age of the centaur. TypeScript.
 
-## Background
-A decade shipping production software across fintech (Northwestern Mutual), automotive (Cars.com - early GPT-3.5 integrations), and developer tooling (Atlassian). Github contribution graph represents nights and weekend exploration. Most of my work is hidden in private org SCM.
+- **[mediascribe](https://github.com/shawnpetros/mediascribe)** — Extract structured insights from audio and video recordings. On [PyPI](https://pypi.org/project/mediascribe/) and [Homebrew](https://github.com/shawnpetros/homebrew-mediascribe). Python.
 
-## Currently Exploring
-Agentic AI patterns, MCP servers, CLI tools designed for LLM consumption, and what "AI-native" actually means for how we build software.
+- **[claude-code-clone](https://github.com/shawnpetros/claude-code-clone)** — Built a minimal clone of Claude Code from scratch. 42 features, zero human-written code, three agent sessions. The agentic loop is just send, detect, execute, feed back, repeat. That's it.
+
+- **[WindWatts](https://windwatts.nlr.gov)** — Open-source wind energy assessment tool for the National Lab of the Rockies. Mobile UI, public API docs, shareable deep-link architecture. React, TypeScript, FastAPI. [25 PRs merged](https://github.com/NatLabRockies/windwatts/pulls?q=is%3Apr+author%3Ashawnpetros).
+
+- **[rental-calculator](https://rentals.shawnpetros.com)** — Rental property viability assessor. TypeScript.
+
+## What I Actually Care About                                                                                                                
+
+Vibe coding with guardrails. Spec-driven development where the AI handles implementation and the human architects the output. Agentic workflows, MCP servers, CLI tools designed for LLM consumption... and putting the art back into a profession that forgot it was one.
+
+Writing a field guide about it. Working title: Kindling.
+
+## Petros Industries
+
+Staff engineer turned independent. I build AI tools and automation for small businesses... the operations layer they can't afford to hire for. [petrosindustries.com](https://petrosindustries.com)
+
+---
+
+93 repos. Most of the interesting ones are private. The contribution graph is nights, weekends, and the hours where buttons light up on screen and you remember why you started doing this.
 
 📍 Los Angeles · [shawnpetros.com](https://shawnpetros.com) · [LinkedIn](https://www.linkedin.com/in/spetros/)
