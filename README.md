@@ -1,6 +1,6 @@
 👋 Hey, I'm Shawn!
 
-I'm the guy who took apart a toaster as a kid to find out WHY it toasted as much as HOW it toasted.
+I'm the dude who took apart toasters as a kid to find out why AND how they worked.
    
 Fifteen years in tech turned that into React, TypeScript, AI pipelines, and an unhealthy number of repos. Then the industry buried the fun part under DSA interviews and "quality with velocity" metrics... so I went and got it back.
 
