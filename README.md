@@ -2,7 +2,7 @@
 
 I'm the dude who took apart toasters as a kid to find out why AND how they worked.
 
-Fifteen years in tech turned that into React, TypeScript, AI pipelines, and an unhealthy number of repos. Then the industry buried the fun part under DSA interviews and "quality with velocity" metrics... so I went and got it back.
+Fifteen years in tech turned that into React, TypeScript, AI pipelines, and an unhealthy number of repos. Then the industry buried the fun part under DSA interviews and "quality with velocity" metrics... so I went on a quest to get the wonder back.
 
 Now I build things that light up when I tell them to. And it feels like the first time I put a hover state on a button with jQuery.
 
@@ -26,7 +26,7 @@ Writing a field guide about it. Working title: Kindling.
 
 ## Petros Industries
 
-Staff engineer turned independent. I build AI tools and automation for small businesses — the operations layer they can't afford to hire for. [petrosindustries.com](https://petrosindustries.com)
+Staff engineer turned independent. I build AI tools and automation for small businesses: the operations layer they can't afford to hire for. [petrosindustries.com](https://petrosindustries.com)
 
 ---
 
