@@ -8,15 +8,15 @@ Now I build things that light up when I tell them to. And it feels like the firs
 
 ## What I'm Building
 
-- **[open-brain](https://github.com/shawnpetros/open-brain)** — Semantic memory layer for AI agents. Postgres + pgvector + MCP. Capture a thought, it gets embedded, classified, and filed. Ask a question in natural language, it understands what you meant. 7 tools, one brain. TypeScript + Python.
+- **[open-brain](https://github.com/shawnpetros/open-brain)** - Semantic memory layer for AI agents. Postgres + pgvector + MCP. Capture a thought, it gets embedded, classified, and filed. Ask a question in natural language, it understands what you meant. 7 tools, one brain. TypeScript + Python.
 
-- **[mediascribe](https://github.com/shawnpetros/mediascribe)** — Extract structured insights from audio and video recordings. On [PyPI](https://pypi.org/project/mediascribe/) and [Homebrew](https://github.com/shawnpetros/homebrew-mediascribe). Python.
+- **[mediascribe](https://github.com/shawnpetros/mediascribe)** - Extract structured insights from audio and video recordings. On [PyPI](https://pypi.org/project/mediascribe/) and [Homebrew](https://github.com/shawnpetros/homebrew-mediascribe). Python.
 
-- **[WindWatts](https://windwatts.nlr.gov)** — Open-source wind energy assessment tool for the National Lab of the Rockies. Mobile UI, public API docs, shareable deep-link architecture. React, TypeScript, FastAPI. [25 PRs merged](https://github.com/NatLabRockies/windwatts/pulls?q=is%3Apr+author%3Ashawnpetros).
+- **[WindWatts](https://windwatts.nlr.gov)** - Open-source wind energy assessment tool for the National Lab of the Rockies. Mobile UI, public API docs, shareable deep-link architecture. React, TypeScript, FastAPI. [25 PRs merged](https://github.com/NatLabRockies/windwatts/pulls?q=is%3Apr+author%3Ashawnpetros).
 
-- **[claude-code-clone](https://github.com/shawnpetros/claude-code-clone)** — Built a minimal clone of Claude Code from scratch. 42 features, zero human-written code, three agent sessions. The agentic loop is just send, detect, execute, feed back, repeat. That's it.
+- **[claude-code-clone](https://github.com/shawnpetros/claude-code-clone)** - Built a minimal clone of Claude Code from scratch. 42 features, zero human-written code, three agent sessions. The agentic loop is just send, detect, execute, feed back, repeat. That's it.
 
-- **[salazar](https://github.com/shawnpetros/salazar)** — AI agent framework. The one I actually use in production.
+- **[salazar](https://github.com/shawnpetros/salazar)** - AI agent framework. The one I actually use in production.
 
 ## What I Actually Care About
 
