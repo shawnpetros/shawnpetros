@@ -16,7 +16,7 @@ Now I build things that light up when I tell them to. And it feels like the firs
 
 - **[claude-code-clone](https://github.com/shawnpetros/claude-code-clone)** - Built a minimal clone of Claude Code from scratch. 42 features, zero human-written code, three agent sessions. The agentic loop is just send, detect, execute, feed back, repeat. That's it.
 
-- **[salazar](https://github.com/shawnpetros/salazar)** - AI agent framework. The one I actually use in production.
+- **[salazar](https://github.com/shawnpetros/salazar)** - AI agent framework. The one I model all my agentic workflows around. Inspired by Anthropic research on long running autonomous agent harnesses.
 
 ## What I Actually Care About
 
