@@ -6,7 +6,7 @@
 
 Cofounder at [Avistar AI](https://avistar.ai). We ship [Astrolayb](https://astrolayb.com), the non-human-identity (NHI) scanner that gives MSPs an auditor-ready inventory of every service account, IAM role, and access key across their clients' AWS / Azure / GCP estates. Wildcard policies, orphaned keys, externally-trusted roles without MFA, mapped to CMMC / HIPAA / SOC 2 / CIS / NIST CSF evidence.
 
-On the side I run [Petros Industries](https://petrosindustries.com), an AI tooling + automation shop for SMBs. 15 years shipping to production; the last few hijacked by agent-native infrastructure.
+I also run [Petros Industries](https://petrosindustries.com), an AI tooling + automation shop for SMBs. 15 years shipping to production; the last few hijacked by agent-native infrastructure.
 
 [shawnpetros.com](https://shawnpetros.com) · [petrosindustries.com](https://petrosindustries.com) · [LinkedIn](https://www.linkedin.com/in/spetros)
 
