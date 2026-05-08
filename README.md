@@ -43,7 +43,7 @@ I also run [Petros Industries](https://petrosindustries.com), an AI tooling + au
 
 ## ❗ BUT WAIT, THERE'S MORE!
 
-**[deAIify](https://github.com/shawnpetros/deaiify)** ships as both an OpenClaw plugin AND a Claude Code Stop hook. The README is a literal infomercial, AS SEEN ON TV. The README alone is worth a gander, it's literally unhinged. Also, it really works. *Click at your own peril.*
+**[deAIify](https://github.com/shawnpetros/deaiify)** ships as both an OpenClaw plugin AND a Claude Code Stop hook. The README is a literal infomercial, AS SEEN ON TV. It alone is worth a gander, it's literally unhinged. Also, it really works. *Click at your own peril.*
 
 ## 🤔 What I actually care about
 
