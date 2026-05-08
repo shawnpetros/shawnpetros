@@ -32,7 +32,6 @@ I also run [Petros Industries](https://petrosindustries.com), an AI tooling + au
 - **[deAIify](https://github.com/shawnpetros/deaiify)** - Em-dash exterminator. Intercepts assistant output, scans for the long lines (and the two-short-lines autoregressive substitute), forces a rewrite. Ships as both an [OpenClaw plugin](https://github.com/shawnpetros/deaiify) AND a [Claude Code Stop hook](https://github.com/shawnpetros/deaiify/tree/main/claude-code). Fails open if the rewrite breaks. *BUT WAIT, THERE'S MORE!* The README is a full Billy Mays infomercial with an AS-SEEN-ON-TV hero banner I had codex generate via gpt-image-2. One product, two harnesses, zero dashes, pure shitpost energy.
 - **[Claude Context](https://github.com/shawnpetros/claude-context)** - Code search MCP for Claude Code. Makes the entire codebase the context for any coding agent.
 - **[Claude Skills](https://github.com/shawnpetros/claude-skills)** - Opinionated skills that earn their keep. Process skills, anti-slop voice rules, build-in-public scaffolding.
-- **[GAAI Framework](https://github.com/shawnpetros/GAAI-framework)** - Drop `.gaai/` into any project; Discovery defines what to build, Delivery runs until criteria pass. Markdown + YAML + bash. Claude Code / Codex CLI / Gemini CLI / Cursor compatible.
 
 **Shipped + building.**
 
