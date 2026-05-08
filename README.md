@@ -29,7 +29,6 @@ I also run [Petros Industries](https://petrosindustries.com), an AI tooling + au
 
 - **[Lithium](https://github.com/shawnpetros/lithium)** - Cross-provider LLM-spend aggregator (Anthropic / OpenAI / OpenRouter). Local Rust daemon, SQLite-backed, multiple UI surfaces (CLI, status line, menubar, harness hooks). Mood stabilizer for your AI bill.
 - **[QMD Recall](https://github.com/shawnpetros/qmd-recall)** - Deterministic memory recall plugin for OpenClaw. Replaces brittle agent-driven RAG with cited, indexed retrieval. No 20-second pre-answer séance.
-- **[deAIify](https://github.com/shawnpetros/deaiify)** - Em-dash exterminator. Intercepts assistant output, scans for the long lines (and the two-short-lines autoregressive substitute), forces a rewrite. Ships as both an [OpenClaw plugin](https://github.com/shawnpetros/deaiify) AND a [Claude Code Stop hook](https://github.com/shawnpetros/deaiify/tree/main/claude-code). Fails open if the rewrite breaks. *BUT WAIT, THERE'S MORE!* The README is a full Billy Mays infomercial with an AS-SEEN-ON-TV hero banner I had codex generate via gpt-image-2. One product, two harnesses, zero dashes, pure shitpost energy.
 - **[Claude Context](https://github.com/shawnpetros/claude-context)** - Code search MCP for Claude Code. Makes the entire codebase the context for any coding agent.
 - **[Claude Skills](https://github.com/shawnpetros/claude-skills)** - Opinionated skills that earn their keep. Process skills, anti-slop voice rules, build-in-public scaffolding.
 
@@ -41,6 +40,10 @@ I also run [Petros Industries](https://petrosindustries.com), an AI tooling + au
 - **[PennyBot](https://github.com/shawnpetros/pennybot)** - Voice bot that joins your Zoom call and speaks. Recall.ai + OpenAI Realtime, built in an evening. MIT.
 - **[ShinyOps](https://pokemon-shiny-guide.vercel.app)** - Shiny-hunting planner for Pokémon Legends: Z-A + Scarlet/Violet. Search-first target picker, ranked methods, deep planners for ZA donuts and SV sandwiches. ([code](https://github.com/shawnpetros/pokemon-shiny-guide))
 - **[claude-code-clone](https://github.com/shawnpetros/claude-code-clone)** - Minimal Claude Code clone built from scratch. 42 features, zero hand-written code, three agent sessions. The agentic loop is just `send → detect → execute → feed back → repeat`.
+
+## ❗ BUT WAIT, THERE'S MORE!
+
+**[deAIify](https://github.com/shawnpetros/deaiify)** ships as both an OpenClaw plugin AND a Claude Code Stop hook. The README is a Billy Mays infomercial. The hero banner is AS SEEN ON TV. The testimonials are from "Definitely A Real Person." There is an "ARE YOU TIRED OF" section listing all the things you used to do before you found us. It is fully unhinged. It also actually works. *Click at your own peril.*
 
 ## 🤔 What I actually care about
 
