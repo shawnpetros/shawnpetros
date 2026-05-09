@@ -38,7 +38,7 @@ I also run [Petros Industries](https://petrosindustries.com), an AI tooling + au
 - **[mediascribe](https://github.com/shawnpetros/mediascribe)** - TUI for transcribing, translating, analyzing audio / video. On [PyPI](https://pypi.org/project/mediascribe/) and [Homebrew](https://github.com/shawnpetros/homebrew-mediascribe).
 - **[WindWatts](https://windwatts.nlr.gov)** - Open-source wind energy assessment for the National Lab of the Rockies. React + TypeScript + FastAPI. [25 PRs merged](https://github.com/NatLabRockies/windwatts/pulls?q=is%3Apr+author%3Ashawnpetros).
 - **[PennyBot](https://github.com/shawnpetros/pennybot)** - Voice bot that joins your Zoom call and speaks. Recall.ai + OpenAI Realtime, built in an evening. MIT.
-- **[ShinyOps](https://pokemon-shiny-guide.vercel.app)** - Shiny-hunting planner for Pokémon Legends: Z-A + Scarlet/Violet. Search-first target picker, ranked methods, deep planners for ZA donuts and SV sandwiches. ([code](https://github.com/shawnpetros/pokemon-shiny-guide))
+- **[ShinyOps](https://shinyops.vercel.app)** - Shiny-hunting planner for Pokémon Legends: Z-A + Scarlet/Violet. Search-first target picker, ranked methods, deep planners for ZA donuts and SV sandwiches. ([code](https://github.com/shawnpetros/shinyops))
 - **[claude-code-clone](https://github.com/shawnpetros/claude-code-clone)** - Minimal Claude Code clone built from scratch. 42 features, zero hand-written code, three agent sessions. The agentic loop is just `send → detect → execute → feed back → repeat`.
 
 ## ❗ BUT WAIT, THERE'S MORE!
